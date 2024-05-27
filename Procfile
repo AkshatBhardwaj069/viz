@@ -1,2 +1,2 @@
-web: gunicorn ortho:app.server
+web: gunicorn app:server
 
